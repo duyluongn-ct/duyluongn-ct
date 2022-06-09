@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Duy Luong
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-duyluongn-ct/duyluongn-ct is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://github.com/duyluongn-ct/duyluongn-ct/blob/main/thonk.svg">
+    <img src="thonk.svg" width="720" height="480">
+  </a>
+</div>
